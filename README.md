@@ -1,8 +1,6 @@
 Hello there, I started learning python in 2023 and as a practice I'll put some of my Hackerrank problem's solutions here. 
 NOTE : I didn't add the Introduction and the Basic Data types sections.
-```python
-result = 115 - 58
-```
+
 <h1>Exercises Remained = result</h1>
 
 5/6/2024 UPDATE 
